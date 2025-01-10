@@ -196,7 +196,7 @@ def main():
 
     if menu == "Home":
         # Landing Page
-        st.image("assets/Logo/team_logo_lumos.png", width=200)  # Placeholder for the team logo
+        st.image("assets/Logo/image-lumous.png", width=200)  # Placeholder for the team logo
         st.title("Welcome to Socialens!")
         st.markdown(
             """

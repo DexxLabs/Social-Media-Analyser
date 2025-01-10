@@ -21,6 +21,7 @@ Make sure to install the following dependencies before running the project:
 - **LangChain Groq**: For GPT integration via Langflow.
 - **Pandas**: For handling and processing datasets.
 - **Plotly**: For creating interactive visualizations.
+- **Langflow**: Low code LLM tool for streamlining the response.
 - **os**: For operating system interactions.
 - **uuid**: For generating unique identifiers.
 - **dotenv**: For managing environment variables.

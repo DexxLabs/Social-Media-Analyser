@@ -13,6 +13,27 @@ Build a user-friendly analytics module, **Socialens**, using Langflow and DataSt
 
 ---
 
+## Dependencies
+
+Make sure to install the following dependencies before running the project:
+
+- **Streamlit**: For building the web interface.
+- **LangChain Groq**: For GPT integration via Langflow.
+- **Pandas**: For handling and processing datasets.
+- **Plotly**: For creating interactive visualizations.
+- **os**: For operating system interactions.
+- **uuid**: For generating unique identifiers.
+- **dotenv**: For managing environment variables.
+- **Astrapy**: For interfacing with DataStax Astra DB.
+
+Install these packages using pip:
+
+```bash
+pip install streamlit langchain-groq pandas plotly python-dotenv astrapy
+```
+
+---
+
 ## Features
 
 ### 1. Fetch Engagement Data
